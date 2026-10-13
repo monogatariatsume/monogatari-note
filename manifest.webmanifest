@@ -1,0 +1,14 @@
+{
+  "name": "ものがたり帖｜作品の記録",
+  "short_name": "ものがたり帖",
+  "description": "好きな漫画・アニメ・映画を記録する小さな本棚",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fcfaff",
+  "theme_color": "#faf6ff",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
